@@ -18,3 +18,5 @@ ExportedObj/
 *.pidb
 *.booproj
 *.svd
+
+TestPorject/Library/ProjectSettings.asset
